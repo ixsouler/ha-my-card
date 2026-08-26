@@ -1,0 +1,11 @@
+{
+    "name": "HA Radar Card",
+    "render_readme": true,
+    "filename": "ha-radar-card.js",
+    "version": "1.0.0",
+    "homeassistant": "2023.1.0",
+    "zip_release": false,
+    "country": [
+        "CN"
+    ]
+}
