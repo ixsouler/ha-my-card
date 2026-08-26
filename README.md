@@ -37,7 +37,7 @@
 
 3. 在资源页面右下角，点击 **“添加资源”**，填入以下信息：
 
-   - **资源 URL**：`/local/my-card/ha-radar-card.js`
+   - **资源 URL**：`/local/ha-my-card/ha-radar-card.js`
    - **资源类型**：在下拉框中选择 **`JavaScript 模块`**（或 `js` 模块）。
 
    点击 **“保存”** 或 **“创建”**。
